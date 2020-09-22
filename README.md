@@ -1,4 +1,4 @@
-# Pop Os Theme
+# Pop Os Discord Theme
 
 ## What you need?
 ### Better Discord **By: Jiiks**
@@ -13,10 +13,10 @@ https://github.com/Jiiks/BetterDiscordApp
 https://github.com/bb010g/betterdiscordctl
 ```
 
-### popos.theme.css **By: Clans1**
+### Pop Os Discord theme **By: Clans1**
 
 ```
-https://github.com/Jiiks/BetterDiscordApp
+https://github.com/Clans1/not_official_popos_discord_theme
 ```
 
 ## Theme screenshot
