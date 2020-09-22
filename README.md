@@ -1,6 +1,12 @@
 # Pop Os Discord Theme
 
-Theme that I created to my discord based on pop os colors
+Theme that I created to my discord based on pop os colors!
+
+You can text me on telegram: @Lucas_Clans
+
+Or e-mail me: lucasclans@zoho.com
+
+Or reporting an issue, sugestions are welcome!
 
 ## What you need?
 
