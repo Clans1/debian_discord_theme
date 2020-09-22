@@ -9,7 +9,7 @@ And report issue, sugestions are welcome!
 ## What you need?
 
 #### [Better Discord](https://github.com/Jiiks/BetterDiscordApp) by Jiiks
-#### [betterdiscordctl](https://github.com/bb010g/betterdiscordctl) by bb010g
+**[betterdiscordctl](https://github.com/bb010g/betterdiscordctl) by bb010g** (Linux only)
 #### [Pop Os Discord theme](https://github.com/Clans1/not_official_popos_discord_theme) by Clans1
 
 ## Theme screenshot
