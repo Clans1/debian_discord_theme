@@ -4,7 +4,7 @@ Theme that I created to my discord based on pop os colors!
 
 You can find me on telegram: @Lucas_Clans \
 E-mail me: lucasclans@zoho.com\
-And report issue, sugestions are welcome!
+Sugestions are cool!
 
 ## What you need?
 
